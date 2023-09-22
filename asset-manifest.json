@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://varsharani9.github.io/Billing-Application/static/css/main.890b8d28.css",
+    "main.js": "https://varsharani9.github.io/Billing-Application/static/js/main.9b9a5911.js",
+    "static/js/787.589fd08e.chunk.js": "https://varsharani9.github.io/Billing-Application/static/js/787.589fd08e.chunk.js",
+    "index.html": "https://varsharani9.github.io/Billing-Application/index.html",
+    "main.890b8d28.css.map": "https://varsharani9.github.io/Billing-Application/static/css/main.890b8d28.css.map",
+    "main.9b9a5911.js.map": "https://varsharani9.github.io/Billing-Application/static/js/main.9b9a5911.js.map",
+    "787.589fd08e.chunk.js.map": "https://varsharani9.github.io/Billing-Application/static/js/787.589fd08e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.890b8d28.css",
+    "static/js/main.9b9a5911.js"
+  ]
+}
